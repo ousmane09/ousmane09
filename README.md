@@ -1,4 +1,4 @@
-### Enseignant chercheur à l'université de Labé, spécialisé en Réseau et systeme 
+### Enseignant chercheur à l'université de Labé, spécialisé en Réseau et système 
 
 <!--
 **ousmane09/ousmane09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
